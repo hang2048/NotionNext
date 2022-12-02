@@ -140,13 +140,3 @@ const BLOG = {
   VERSION: process.env.NEXT_PUBLIC_VERSION // 版本号
 }
 module.exports = BLOG
-
-<script type="text/javascript">
-  window._mfq = window._mfq || [];
-  (function() {
-    var mf = document.createElement("script");
-    mf.type = "text/javascript"; mf.defer = true;
-    mf.src = "//cdn.mouseflow.com/projects/2bcb530c-0137-47c6-87e8-634bc3b4f513.js";
-    document.getElementsByTagName("head")[0].appendChild(mf);
-  })();
-</script>
